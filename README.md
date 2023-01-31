@@ -2,10 +2,10 @@
 Tiivistelmä artikkelista
 
 
-                      Tukki
+##Tukki
 
 
-/var/log/syslog
+###/var/log/syslog
 
 Komento
 
