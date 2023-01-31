@@ -56,9 +56,10 @@ Seuraavaksi yritin aiheuttaa epäonnistuneen tapahtuman lokiin. Yritin antaa vä
 <img width="601" alt="Auth komento" src="https://user-images.githubusercontent.com/122889266/215875744-91a24e80-c43c-4d9d-b784-25e7aed41c68.png">
 <img width="552" alt="Syslog komento" src="https://user-images.githubusercontent.com/122889266/215875754-6457bc25-b587-4db3-87ec-75ca94a334e9.png">
 <img width="803" alt="Syslog tulos2" src="https://user-images.githubusercontent.com/122889266/215875832-e6bf16a7-bfc0-4a41-906d-d2cab01b9288.png">
-![Uploading 
+
+
 <img width="642" alt="error komento" src="https://user-images.githubusercontent.com/122889266/215875861-e27d3b32-ea1a-4b1e-a1d8-a455f33b1c0b.png">
-error log.png…]()
+
 <img width="1130" alt="access log" src="https://user-images.githubusercontent.com/122889266/215875887-dbacd8c7-0184-4d5f-8a04-687ebc190b19.png">
 
 
