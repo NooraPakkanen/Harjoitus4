@@ -16,18 +16,15 @@ Tulostuksesksi sain:
 <img width="803" alt="Syslog tulos2" src="https://user-images.githubusercontent.com/122889266/215875832-e6bf16a7-bfc0-4a41-906d-d2cab01b9288.png">
 
 
-Kuvassa näkyy ensin päivämäärä ja kellonaika. Seuraavaksi on järjestelmän nimi ja
 
-
-
-
-
-Systemd-hostname service. En suoraan ymmärtänyt mitä tämä tarkoittaa. Löysin jonkun lähteen, mutta en ymmärtänyt oikein senkään avulla. 
+Päivämäärä ja kellonaika. Sitten näkyy tietokoneen nimi ja järjestelmänhallinta. Seuraavaksi näkyy tulostus: systemd-hostname.service. En suoraan ymmärtänyt mitä tämä tarkoittaa. Yritin tulkita tulostusta lähteen avulla, mutta siitä huolimatta en ihan ymmärtänyt tulostuksen merkitystä. 
 
 https://www.freedesktop.org/software/systemd/man/systemd-hostnamed.service.html
 
 
 var/log/auth.log
+
+Seuraavaksi analysoin var/log/auth.log tiedoston sisältöä. Alla näkyy kometo, jolla pääsin katsomaan tiedostoa. 
 
 <img width="601" alt="Auth komento" src="https://user-images.githubusercontent.com/122889266/215875744-91a24e80-c43c-4d9d-b784-25e7aed41c68.png">
 
@@ -36,9 +33,15 @@ var/log/auth.log
 <img width="809" alt="Auth tulostus" src="https://user-images.githubusercontent.com/122889266/215875735-5f253194-537a-4855-932f-bd5ac6f4e896.png">
 
 
+Tulostuksessa näkyy ensin päivämäärä ja kellonaika. Sitten näkyy tietokoneen nimi. Sitten näkyy järjestelmään sisäänkirjautuminen ja että sisään kirjautui käyttäjä Noora. Hakasuluissa oleva 480 [480] merkitys jäi epäselväksi.
+
 /var/log/apache2/access.log
 
+Alla olevalla komennolla pääsin katsomaan access.logia. 
 
+<img width="579" alt="access log komento" src="https://user-images.githubusercontent.com/122889266/215885315-ba09de48-5aa9-4049-b992-c1b070e371bd.png">
+
+Tulostuksessa näkyy ensin päivämäärä ja aika. 
 
 <img width="1130" alt="access log" src="https://user-images.githubusercontent.com/122889266/215875887-dbacd8c7-0184-4d5f-8a04-687ebc190b19.png">
 
