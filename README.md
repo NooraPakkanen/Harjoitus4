@@ -58,9 +58,28 @@ Seuraavaksi yritin aiheuttaa epäonnistuneen tapahtuman lokiin. Yritin antaa vä
 <img width="803" alt="Syslog tulos2" src="https://user-images.githubusercontent.com/122889266/215875832-e6bf16a7-bfc0-4a41-906d-d2cab01b9288.png">
 
 
+
+
+
+
+Onnistunut tapahtuma lokiin 
+
+Kokeilin sammuttaa koneeltani verkkoyhteyden ja testasin näkyisikö se lokissa. 
+
+Sain alla olevan mukaisen kuvan, josta näkee, että verkkoyhteys on katkaistu. 
+
+Seuraavassa kuvassa näkyy, että verkkoyhteys toimii taas. 
+
+Epäonnistunut tapahtuma lokiin
+
 <img width="642" alt="error komento" src="https://user-images.githubusercontent.com/122889266/215875861-e27d3b32-ea1a-4b1e-a1d8-a455f33b1c0b.png">
 
+Seuraavaksi yritin aiheuttaa epäonnistuneen tapahtuman lokiin. Yritin antaa väärän salasanan komennolle sudo cat syslog ja katsoin auth.log näkyisikö tapahtuma. Alla testin tulos.
+
 <img width="1130" alt="access log" src="https://user-images.githubusercontent.com/122889266/215875887-dbacd8c7-0184-4d5f-8a04-687ebc190b19.png">
+
+
+
 
 
 
