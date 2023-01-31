@@ -2,9 +2,7 @@
 Tiivistelmä artikkelista
 
 
-Tukki
-
-a)	analysoi
+                      Tukki
 
 
 /var/log/syslog
@@ -82,19 +80,7 @@ Seuraavaksi yritin aiheuttaa epäonnistuneen tapahtuman lokiin. Yritin antaa vä
 
 
 
-Onnistunut tapahtuma lokiin 
 
-Kokeilin sammuttaa koneeltani verkkoyhteyden ja testasin näkyisikö se lokissa. 
-
-Sain alla olevan mukaisen kuvan, josta näkee, että verkkoyhteys on katkaistu. 
-
-Seuraavassa kuvassa näkyy, että verkkoyhteys toimii taas. 
-
-Epäonnistunut tapahtuma lokiin
-
-
-
-Seuraavaksi yritin aiheuttaa epäonnistuneen tapahtuman lokiin. Yritin antaa väärän salasanan komennolle sudo cat syslog ja katsoin auth.log näkyisikö tapahtuma. Alla testin tulos.
 
 
 
