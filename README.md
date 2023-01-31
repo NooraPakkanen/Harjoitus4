@@ -53,6 +53,12 @@ Tulostuksessa näkyy ensin päivämäärä ja aika.
 <img width="642" alt="error komento" src="https://user-images.githubusercontent.com/122889266/215875861-e27d3b32-ea1a-4b1e-a1d8-a455f33b1c0b.png">
 
 
+Ja sain tulostuksen:
+<img width="807" alt="error log tulostus" src="https://user-images.githubusercontent.com/122889266/215888222-b26e02db-2ee3-4d1b-8895-dfb1fa138f69.png">
+
+Tulostuksena näkyy ensimmäisenä viikonpäivä, päivämäärä ja kellonaika ja vuosi. 
+
+
 
 
 Onnistunut tapahtuma lokiin 
