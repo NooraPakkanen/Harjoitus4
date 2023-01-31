@@ -2,21 +2,21 @@
 Tiivistelmä artikkelista
 
 
-##Tukki # Harjoitus4
+Tukki
 
 
-###/var/log/syslog
+/var/log/syslog
 
-Komento
+Ensin tutkin syslog tiedostoa alla olevalla komennolla.
 
 <img width="552" alt="Syslog komento" src="https://user-images.githubusercontent.com/122889266/215875754-6457bc25-b587-4db3-87ec-75ca94a334e9.png">
 
-Tulostus
+Tulostuksesksi sain:
 
 <img width="803" alt="Syslog tulos2" src="https://user-images.githubusercontent.com/122889266/215875832-e6bf16a7-bfc0-4a41-906d-d2cab01b9288.png">
 
 
-
+Kuvassa näkyy ensin päivämäärä ja kellonaika. Seuraavaksi on järjestelmän nimi ja
 
 
 
