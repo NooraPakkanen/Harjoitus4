@@ -41,7 +41,7 @@ Alla olevalla komennolla pääsin katsomaan access.logia.
 
 <img width="579" alt="access log komento" src="https://user-images.githubusercontent.com/122889266/215885315-ba09de48-5aa9-4049-b992-c1b070e371bd.png">
 
-Tulostuksessa näkyy ensin päivämäärä ja aika. 
+ 
 
 <img width="1130" alt="access log" src="https://user-images.githubusercontent.com/122889266/215875887-dbacd8c7-0184-4d5f-8a04-687ebc190b19.png">
 
