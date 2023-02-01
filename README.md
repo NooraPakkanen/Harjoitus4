@@ -33,13 +33,6 @@ Seuraavaksi analysoin var/log/auth.log tiedoston sisältöä. Alla näkyy kometo
 <img width="809" alt="Auth tulostus" src="https://user-images.githubusercontent.com/122889266/215875735-5f253194-537a-4855-932f-bd5ac6f4e896.png">
 
 
-Lähteet :
-
-Tehtävä tehty Linux-palvelimet kurssin ohjeiden mukaan:
-
-h4 Tukki. Karvinen, Tero. Linux palvelimet -kurssi 2023. Luettavissa: https://terokarvinen.com/2023/linux-palvelimet-2023-alkukevat/#h4-tukki. Luettu 29.1.2023
-
-https://www.freedesktop.org/software/systemd/man/systemd-hostnamed.service.html
 
 
 Tulostuksessa näkyy ensin päivämäärä ja kellonaika. Sitten näkyy tietokoneen nimi. Sitten näkyy järjestelmään sisäänkirjautuminen ja että sisään kirjautui käyttäjä Noora. Hakasuluissa oleva 480 [480] merkitys jäi epäselväksi.
@@ -87,6 +80,15 @@ Seuraavaksi yritin aiheuttaa epäonnistuneen tapahtuman lokiin. Yritin antaa vä
 <img width="811" alt="Vaara salasana" src="https://user-images.githubusercontent.com/122889266/215878857-a7c28d7c-e791-49ff-966b-0641484ec5b4.png">
 
 
+
+
+Lähteet :
+
+Tehtävä tehty Linux-palvelimet kurssin ohjeiden mukaan:
+
+h4 Tukki. Karvinen, Tero. Linux palvelimet -kurssi 2023. Luettavissa: https://terokarvinen.com/2023/linux-palvelimet-2023-alkukevat/#h4-tukki. Luettu 29.1.2023
+
+https://www.freedesktop.org/software/systemd/man/systemd-hostnamed.service.html
 
 
 
