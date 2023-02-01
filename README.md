@@ -1,5 +1,5 @@
 # Harjoitus4
-Tiivistelmä artikkelista
+
 
 
 Tukki
@@ -17,7 +17,7 @@ Tulostuksesksi sain:
 
 
 
-Päivämäärä ja kellonaika. Sitten näkyy tietokoneen nimi ja järjestelmänhallinta. Seuraavaksi näkyy tulostus: systemd-hostname.service. En suoraan ymmärtänyt mitä tämä tarkoittaa. Yritin tulkita tulostusta lähteen avulla, mutta siitä huolimatta en ihan ymmärtänyt tulostuksen merkitystä. 
+Ensin näkyy päivämäärä ja kellonaika. Sitten näkyy tietokoneen nimi ja järjestelmänhallinta. Seuraavaksi näkyy tulostus: systemd-hostname.service. En suoraan ymmärtänyt mitä tämä tarkoittaa. Yritin tulkita tulostusta lähteen avulla, mutta siitä huolimatta en ihan ymmärtänyt tulostuksen merkitystä. 
 
 https://www.freedesktop.org/software/systemd/man/systemd-hostnamed.service.html
 
